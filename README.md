@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chris aka NullDev</h1>
-<h3 align="center">A NodeJS, C# Fullstack Developer and part-time savage with huge interests in Artificial Intelligence and Machine Learning.</h3>
+<p align="center"><img src="https://i.imgur.com/JToFZPm.png" width="100%" height="auto"></p>
 
 - 🔭 I'm mostly working on fun projects. Currently: 
    - [Shiro - An Operating System from Scratch](https://github.com/shiro-os) 
