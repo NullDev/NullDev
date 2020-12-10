@@ -6,10 +6,10 @@
    - [A wrapper for the QWANT API](https://github.com/NLDev/qwant-api)
    - [Programming Team-Leader of SaveTheInternet](https://github.com/savetheinternetinfo)
    - [Some Tools and Bots for the german Imageboard pr0gramm](https://github.com/pr0-dev)
+   - [A StyleGuide for NodeJS and JavaScript](https://github.com/NullDevCo/JavaScript-Styleguide)
+   - [A LOLCODE parser written in JavaScript](https://github.com/NLDev/I-HAS-JS)
 
 - 🌱 I’m currently learning **C++ and Japanese**
-
-- 💬 Ask me about **NodeJS / JavaScript / ECMAScript**
 
 - 📫 How to reach me: **chris@nulldev.org**
 
