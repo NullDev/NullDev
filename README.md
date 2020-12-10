@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris aka NullDev</h1>
 <h3 align="center">A NodeJS, C# Fullstack Developer and part-time savage with huge interests in Artificial Intelligence and Machine Learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nldev&label=Profile%20views&color=0e75b6&style=flat" alt="nldev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nldev" alt="nldev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/null_ping" target="blank"><img src="https://img.shields.io/twitter/follow/null_ping?logo=twitter&style=for-the-badge" alt="null_ping" /></a> </p>
-
 - 🌱 I’m currently learning **C++ and Japanese**
 
 - 💬 Ask me about **NodeJS / JavaScript / ECMAScript**
@@ -27,3 +21,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nldev&show_icons=true&locale=en" alt="nldev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nldev&" alt="nldev" /></p>
+
+<p align="left"> <a href="https://twitter.com/null_ping" target="blank"><img src="https://img.shields.io/twitter/follow/null_ping?logo=twitter&style=for-the-badge" alt="null_ping" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nldev&label=Profile%20views&color=0e75b6&style=flat" alt="nldev" /> </p>
+
