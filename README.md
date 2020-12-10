@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Chris aka NullDev</h1>
 <h3 align="center">A NodeJS, C# Fullstack Developer and part-time savage with huge interests in Artificial Intelligence and Machine Learning.</h3>
 
+- 🔭 I'm mostly working on fun projects. Currently: 
+   - [Shiro - An Operating System from Scratch](https://github.com/shiro-os) 
+   - [A wrapper for the QWANT API](https://github.com/NLDev/qwant-api)
+   - [Programming Team-Leader of SaveTheInternet](https://github.com/savetheinternetinfo)
+   - [Some Tools and Bots for the german Imageboard pr0gramm](https://github.com/pr0-dev)
+
 - 🌱 I’m currently learning **C++ and Japanese**
 
 - 💬 Ask me about **NodeJS / JavaScript / ECMAScript**
 
-- 📫 How to reach me **chris@nulldev.org**
+- 📫 How to reach me: **chris@nulldev.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
