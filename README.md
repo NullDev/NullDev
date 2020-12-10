@@ -25,7 +25,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nldev&show_icons=true&locale=en&layout=compact" alt="nldev" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nldev&show_icons=true&locale=en" alt="nldev" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=nldev&" alt="nldev" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nldev&show_icons=true&locale=en" alt="nldev" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nldev&" alt="nldev" /></p>
 
 <p align="left"> <a href="https://twitter.com/null_ping" target="blank"><img src="https://img.shields.io/twitter/follow/null_ping?logo=twitter&style=for-the-badge" alt="null_ping" /></a> </p>
 
