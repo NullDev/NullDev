@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/W4lpwR9.png" width="100%" height="auto"></p>
+<p align="center"><img src="https://i.imgur.com/MZ9L7Ne.png" width="100%" height="auto"></p>
 
 - 🔭 I'm mostly working on fun projects. Currently: 
    - [Shiro - An Operating System from Scratch](https://github.com/shiro-os) 
