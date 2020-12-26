@@ -10,7 +10,10 @@
 
 - 🌱 I’m currently learning **C++ and Japanese**
 
-- 📫 How to reach me: **chris@nulldev.org**
+- 📫 How to reach me:
+   - Email: [**chris@nulldev.org**](mailto:chris@nulldev.org)
+   - Discord: **ShadowByte#1337**
+   - Telegram: [**@nullping**](http://t.me/nullping)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
