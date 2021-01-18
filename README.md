@@ -2,11 +2,11 @@
 
 - 🔭 I'm mostly working on fun projects. Currently: 
    - [Shiro - An Operating System from Scratch](https://github.com/shiro-os) 
-   - [A wrapper for the QWANT API](https://github.com/NLDev/qwant-api)
+   - [A wrapper for the QWANT API](https://github.com/NullDev/qwant-api)
    - [Programming Team-Leader of SaveTheInternet](https://github.com/savetheinternetinfo)
    - [Some Tools and Bots for the german Imageboard pr0gramm](https://github.com/pr0-dev)
    - [A StyleGuide for NodeJS and JavaScript](https://github.com/NullDevCo/JavaScript-Styleguide)
-   - [A LOLCODE parser written in JavaScript](https://github.com/NLDev/I-HAS-JS)
+   - [A LOLCODE parser written in JavaScript](https://github.com/NullDev/I-HAS-JS)
 
 - 🌱 I’m currently learning **C++ and Japanese**
 
