@@ -7,6 +7,7 @@
    - [Some Tools and Bots for the german Imageboard pr0gramm](https://github.com/pr0-dev)
    - [A StyleGuide for NodeJS and JavaScript](https://github.com/NullDevCo/JavaScript-Styleguide)
    - [A LOLCODE parser written in JavaScript](https://github.com/NullDev/I-HAS-JS)
+   - [Some older Minecraft related projects](https://github.com/EpticMC)
 
 - 🌱 I’m currently learning **C++ and Japanese**
 
