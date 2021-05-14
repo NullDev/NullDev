@@ -9,6 +9,8 @@
    - [A LOLCODE parser written in JavaScript](https://github.com/NullDev/I-HAS-JS)
    - [Some older Minecraft related projects](https://github.com/EpticMC)
    - [A client for the browser-game krunker.io](https://github.com/Mixaz017/idkr)
+   - [A deterministic emotion-detection AI](https://github.com/EMMA-Emotion-AI)
+   - [Maintaining the Debian-Package for `sp`](https://github.com/NullDev/sp)
 
 - 🌱 I’m currently learning **C++ and Japanese**
 
