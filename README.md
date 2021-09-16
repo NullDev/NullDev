@@ -16,7 +16,9 @@
 
 - 📫 How to reach me:
    - Email: [**chris@nulldev.org**](mailto:chris@nulldev.org)
-   - Discord: **ShadowByte#1337**
+   - Discord: 
+       - Username: **ShadowByte#1337**
+       - Or join my [**German** Coding Server](https://discord.gg/csz)
    - Telegram: [**@nullping**](http://t.me/nullping)
    - Twitter: [**@null_ping**](https://twitter.com/null_ping)
    - StackOverflow: [**nulldev**](https://stackoverflow.com/users/7575111)
