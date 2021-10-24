@@ -10,7 +10,7 @@ Hey! I'm Chris aka NullDev aka Shadow. I'm a fullstack developer with focus on b
    - [A StyleGuide for NodeJS and JavaScript](https://github.com/NullDevCo/JavaScript-Styleguide)
    - [A LOLCODE parser written in JavaScript](https://github.com/NullDev/I-HAS-JS)
    - [Some older Minecraft related projects](https://github.com/EpticMC)
-   - [A client for the browser-game krunker.io](https://github.com/Mixaz017/idkr)
+   - [A client for the browser-game krunker.io](https://github.com/idkr-client)
    - [A deterministic emotion-detection AI](https://github.com/EMMA-Emotion-AI)
    - [Maintaining the Debian-Package for `sp`](https://github.com/NullDev/sp)
 
