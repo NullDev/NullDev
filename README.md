@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/MZ9L7Ne.png" width="100%" height="auto"></p>
 
-Hey! I'm Chris aka NullDev aka Shadow. I'm a fullstack developer with focus on backend programming and artificial intelligence / machine learning. I am also currently studying computer science at the university of technology in Austria. 
+Hey! I'm Chris aka NullDev aka Shadow. I'm a fullstack developer with focus on backend programming and artificial intelligence / machine learning. I am also currently studying computer science at the university of technology in Austria and I'm a reserve military paramedic. 
 
 - 🔭 I'm mostly working on fun projects. Currently: 
    - [Shiro - An Operating System from Scratch](https://github.com/shiro-os) 
