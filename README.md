@@ -20,7 +20,7 @@ Hey! I'm Chris aka NullDev aka Shadow. I'm a 22 year old fullstack developer wit
 - 📫 How to reach me:
    - Email: [**chris@nulldev.org**](mailto:chris@nulldev.org)
    - Discord: 
-       - Username: **ShadowByte#1337**
+       - Username: **ShadowByte#1337** ([Visit Discord-Bio](https://dsc.bio/nulldev))
        - Or join my [**German** Coding Server](https://discord.gg/csz)
    - Telegram: [**@nullping**](http://t.me/nullping)
    - Twitter: [**@null_ping**](https://twitter.com/null_ping)
