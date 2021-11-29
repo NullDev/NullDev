@@ -15,9 +15,9 @@ Hey! I'm Chris aka NullDev aka Shadow. I'm a 22 year old fullstack developer wit
    - [Maintaining the Debian-Package for `sp`](https://github.com/NullDev/sp)
    - [Participation in various events such as "Advent of Code"](https://github.com/NullDev/Advent-of-Code)
 
-- ✨ Main/Strong languages: JavaScript, NodeJS, C#, HTML5, CSS3 & SCSS
+- ✨ Main/Strong languages: **JavaScript, NodeJS, C#, HTML5, CSS3 & SCSS**
 
-- 📜 Other languages I'm familiar with: C, Java, PHP, Bash
+- 📜 Other languages I'm familiar with: **C, Java, PHP, Bash**
 
 - 🌱 I’m currently learning **C++, APL, a bit of Rust and Japanese**
 
