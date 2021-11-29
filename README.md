@@ -17,7 +17,7 @@ Hey! I'm Chris aka NullDev aka Shadow. I'm a 22 year old fullstack developer wit
 
 - ✨ Main/Strong languages: **JavaScript, NodeJS, C#, HTML5, CSS3 & SCSS**
 
-- 📜 Other languages I'm familiar with: **C, Java, PHP, Bash**
+- 📜 Other languages I'm familiar with: **C, Java, PHP, Bash, GBZ80 Assembly**
 
 - 🌱 I’m currently learning **C++, APL, a bit of Rust and Japanese**
 
