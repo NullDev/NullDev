@@ -28,8 +28,8 @@ Hey! I'm Chris aka NullDev aka Shadow. I'm a 22 year old fullstack developer wit
        - Or join my [**German** Coding Server](https://discord.gg/csz)
    - Telegram: [**@nullping**](http://t.me/nullping)
    - Twitter: [**@null_ping**](https://twitter.com/null_ping)
-   - StackOverflow: [**nulldev**](https://stackoverflow.com/users/7575111)
    - Website: [**https://nulldev.org**](https://nulldev.org)
+   - StackOverflow: [**NullDev**](https://stackoverflow.com/users/7575111) <br><a href="https://stackoverflow.com/users/7575111/nulldev"><img src="https://stackoverflow.com/users/flair/7575111.png?theme=dark" width="208" height="58" alt="profile for NullDev at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for NullDev at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <sub>You can contact me in German (native language) or English ([C2-Level](https://www.efset.org/cefr/c2/))</sub>
 
