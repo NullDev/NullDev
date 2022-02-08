@@ -6,7 +6,7 @@ Hey! I'm Chris aka NullDev aka Shadow. I'm a 22 year old fullstack developer wit
    - [Shiro - An Operating System from Scratch](https://github.com/shiro-os) 
    - [A wrapper for the QWANT API](https://github.com/NullDev/qwant-api)
    - [Programming Team-Lead of SaveTheInternet](https://github.com/savetheinternetinfo)
-   - [Some Tools and Bots for the german Imageboard pr0gramm](https://github.com/pr0-dev) (as "[TheShad0w](https://pr0gramm.com/user/TheShad0w)")
+   - [Moderator and Developer for the german Imageboard pr0gramm](https://github.com/pr0-dev) (as "[TheShad0w](https://pr0gramm.com/user/TheShad0w)")
    - [A StyleGuide for NodeJS and JavaScript](https://github.com/NullDevCo/JavaScript-Styleguide)
    - [A LOLCODE parser written in JavaScript](https://github.com/NullDev/I-HAS-JS)
    - [Some older Minecraft related projects](https://github.com/EpticMC)
