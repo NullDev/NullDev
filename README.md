@@ -12,6 +12,7 @@ Hey! I'm Chris aka NullDev aka Shadow. I'm a 22 year old fullstack developer wit
    - [Some older Minecraft related projects](https://github.com/EpticMC)
    - [A client for the browser-game krunker.io](https://github.com/idkr-client)
    - [A deterministic emotion-detection AI](https://github.com/EMMA-Emotion-AI)
+   - [AI to classify donation organisations & donation value from pictures (german)](https://github.com/pr0-dev/Spendenr-AI-d)
    - [Maintaining the Debian-Package for `sp`](https://github.com/NullDev/sp)
    - [Participation in various events such as "Advent of Code"](https://github.com/NullDev/Advent-of-Code)
 
