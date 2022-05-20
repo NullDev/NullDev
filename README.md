@@ -21,7 +21,7 @@ Hey! I'm Chris aka NullDev aka Shadow. I'm a 22 year old fullstack developer wit
 
 - 📜 Other languages I'm familiar with: **C, Java, Bash, GBZ80 Assembly** <a name="other-languages"></a>
 
-- 🌱 I’m currently learning **C++, APL, a bit of Rust and Japanese** <a name="learning"></a>
+- 🌱 I’m currently learning **C++, ~~APL~~ (_gave up on that one_), a bit of Rust and Japanese** <a name="learning"></a>
 
 - 📫 How to reach me: <a name="contact"></a>
    - Email: [**chris@nulldev.org**](mailto:chris@nulldev.org)
