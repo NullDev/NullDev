@@ -1,7 +1,7 @@
 <a name="profile"></a>
 <p align="center"><img src="https://i.imgur.com/MZ9L7Ne.png" width="100%" height="auto"></p>
 
-Hey! I'm Chris aka NullDev aka Shadow. I'm a 23 year old fullstack developer with focus on backend programming and artificial intelligence / machine learning who likes Math and Functional Programming a bit too much. I am also currently studying computer science at the university of technology in Austria and I'm a reserve military paramedic. 
+Hey! I'm Chris aka NullDev. I'm a 23 year old fullstack developer with focus on backend programming and artificial intelligence / machine learning who likes Math and Functional Programming a bit too much. I am also currently studying computer science at the university of technology in Austria and I'm a reserve military paramedic. 
 
 - 🔭 I'm mostly working on fun projects. Currently: <a name="projects"></a>
    - [Shiro - An Operating System from Scratch](https://github.com/shiro-os) 
@@ -32,9 +32,7 @@ Hey! I'm Chris aka NullDev aka Shadow. I'm a 23 year old fullstack developer wit
 
 - 📫 How to reach me: <a name="contact"></a>
    - Email: [**chris@nulldev.org**](mailto:chris@nulldev.org)
-   - Discord: 
-       - Username: **ShadowByte#1337** ([Visit Discord-Bio](https://dsc.bio/nulldev))
-       - Or join my [**German** Coding Server](https://discord.gg/csz)
+   - Discord: **ShadowByte#1337** ([Visit Discord-Bio](https://dsc.bio/nulldev))
    - Telegram: [**@nullping**](http://t.me/nullping)
    - Twitter: [**@null_ping**](https://twitter.com/null_ping)
    - Website: [**https://nulldev.org**](https://nulldev.org)
