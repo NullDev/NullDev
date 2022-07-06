@@ -26,6 +26,8 @@ Hey! I'm Chris aka NullDev aka Shadow. I'm a 23 year old fullstack developer wit
 - ⭐ My Star-Lists: <a name="stars"></a>
   - [AI & ML](https://github.com/stars/NullDev/lists/ai-ml) - Tools, Projects, Frameworks and Libraries for/about Artificial Intelligence and Machine Learning
   - [InfoSec](https://github.com/stars/NullDev/lists/infosec) - Various Tools, PoC's, Exploits, etc regarding Pen-Testing, InfoSec, Reverse Engineering & Co
+  - [Cool JS Stuff](https://github.com/stars/NullDev/lists/cool-js-stuff) - Neat JS Projects, Tools and Libraries
+  - [Retro and Games](https://github.com/stars/NullDev/lists/retro-and-games) - Code from old software, operating systems and games
   - [TC39](https://github.com/stars/NullDev/lists/tc39) - New proposals for ECMAScript / JS
 
 - 📫 How to reach me: <a name="contact"></a>
