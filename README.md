@@ -33,7 +33,7 @@ Hey! I'm Chris aka NullDev. I'm a 23 year old fullstack developer with focus on 
 
 - 📫 How to reach me: <a name="contact"></a>
    - Email: [**chris@nulldev.org**](mailto:chris@nulldev.org)
-   - Discord: **`shad0w#1337`** ([Visit Discord-Bio](https://dsc.bio/nulldev))
+   - Discord: **`SHADOW#1337`** ([Visit Discord-Bio](https://dsc.bio/nulldev))
    - Telegram: [**@nullping**](http://t.me/nullping)
    - Twitter: [**@null_ping**](https://twitter.com/null_ping)
    - Website: [**https://nulldev.org**](https://nulldev.org)
