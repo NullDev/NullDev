@@ -7,7 +7,7 @@ Hey! I'm Chris aka NullDev. I'm a 23 year old fullstack developer with focus on 
    - [Shiro - An Operating System from Scratch](https://github.com/shiro-os) 
    - [A wrapper for the QWANT API](https://github.com/NullDev/qwant-api)
    - [Ex-Programming Team-Lead of SaveTheInternet](https://github.com/savetheinternetinfo)
-   - [Developer and Moderator for the german Imageboard pr0gramm](https://github.com/pr0-dev)
+   - [Developer and Moderator for the german Imageboard "pr0gramm"](https://github.com/pr0-dev)
    - [A StyleGuide for NodeJS and JavaScript](https://github.com/NullDevCo/JavaScript-Styleguide)
    - [A LOLCODE parser written in JavaScript](https://github.com/NullDev/I-HAS-JS)
    - [Some older Minecraft related projects](https://github.com/EpticMC)
