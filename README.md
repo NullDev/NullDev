@@ -18,11 +18,20 @@ Hey! I'm Chris aka NullDev. I'm a 23 year old fullstack developer with focus on 
    - [Maintaining the Debian-Package for `sp`](https://github.com/NullDev/sp)
    - [Participation in various events such as "Advent of Code"](https://github.com/NullDev/Advent-of-Code)
 
+- ❄ Personal stuff: <a name="personal"></a>
+   - I like Cats 😸
+   - I like Anime 🗾
+   - I love Souls Games (Dark Souls I / II / III & Elden Ring), Skyrim, Horror Games and FPS 🎮
+   - I'm fluent in English and German 🇩🇪 🇬🇧
+   - I use Linux btw (KDE Neon) 🐧 
+   - I love Music, although my taste can be a little weird (ranging from _Chill_, _Lo-Fi_ & _Phonk_ all the way to _Blackened Death Metal_) :musical_note: 
+      - You can find my playlists [here](https://open.spotify.com/user/2yam2vmpjlbi9d5kqisppgqg8/playlists) if you're interested :)
+
 - ✨ Main/Strong languages: **JavaScript, NodeJS, C#, PHP, HTML5, CSS3 & SCSS** <a name="strong-languages"></a>
 
 - 📜 Other languages I'm familiar with: **C, Java, Bash, GBZ80 Assembly** <a name="other-languages"></a>
 
-- 🌱 I’m currently learning **C++, ~~APL~~** (_gave up on that one_)**, a bit of Rust and Japanese** <a name="learning"></a>
+- 🌱 I’m currently learning **C++, ~~APL~~** (_gave up on that one_ :trollface:)**, a bit of Rust and Japanese** <a name="learning"></a>
 
 - ⭐ My Star-Lists: <a name="stars"></a>
   - [AI & ML](https://github.com/stars/NullDev/lists/ai-ml) - Tools, Projects, Frameworks and Libraries for/about Artificial Intelligence and Machine Learning
