@@ -24,7 +24,7 @@ Hey! I'm Chris aka NullDev. I'm a 23 year old fullstack developer with focus on 
    - I love Souls Games (Dark Souls I / II / III & Elden Ring), Skyrim, Horror Games and FPS 🎮
    - I'm fluent in English and German 🇩🇪 🇬🇧
    - I use Linux btw (KDE Neon) 🐧 
-   - I love Music, although my taste can be a little weird (ranging from _Chill_, _Lo-Fi_ & _Phonk_ all the way to _Blackened Death Metal_) :musical_note: 
+   - I love Music, my taste can be a bit weird tho (from _Chill_, _Lo-Fi_ & _Phonk_ all the way to _Blackened Death Metal_) :musical_note: 
       - You can find my playlists [here](https://open.spotify.com/user/2yam2vmpjlbi9d5kqisppgqg8/playlists) if you're interested :)
 
 - ✨ Main/Strong languages: **JavaScript, NodeJS, C#, PHP, HTML5, CSS3 & SCSS** <a name="strong-languages"></a>
