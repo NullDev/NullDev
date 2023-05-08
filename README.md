@@ -22,7 +22,7 @@ Hey! I'm Chris aka NullDev. I'm a 23 year old fullstack developer with focus on 
    - I like Cats 😸
    - I like Anime 🗾
    - I love Souls Games (Demon Souls, Dark Souls I / II / III & Elden Ring), Skyrim, Horror Games and FPS 🎮
-   - I use Linux btw (KDE Neon) 🐧 
+   - I use Linux btw ([KDE Neon](https://neon.kde.org/)) 🐧 
    - I love Music, my taste can be a bit weird tho (from _Chill_, _Lo-Fi_ & _Phonk_ all the way to _Blackened Death Metal_) :musical_note: 
       - You can find my playlists [here](https://open.spotify.com/user/2yam2vmpjlbi9d5kqisppgqg8/playlists) if you're interested :)
 
