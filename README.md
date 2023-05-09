@@ -57,7 +57,7 @@ Hey! I'm Chris aka NullDev. I'm a 23 year old fullstack developer with focus on 
 <hr>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NullDev&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&bg_color=00000000&custom_title=NullDev%27s%20Stats%20%E2%97%95%E2%80%BF%E2%97%95"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=NullDev&count_private=true&include_all_commits=true&show_icons=true&hide=contribs&theme=gotham&bg_color=00000000&custom_title=NullDev%27s%20Stats%20%E2%97%95%E2%80%BF%E2%97%95"></img>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nldev&label=Profile%20views&color=0e75b6&style=flat" alt="nldev" /> </p>
