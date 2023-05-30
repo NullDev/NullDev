@@ -3,7 +3,7 @@
 
 Hey! I'm Chris aka NullDev. I'm a 24 year old fullstack developer with focus on backend programming and artificial intelligence / machine learning who likes Math and Functional Programming a bit too much. I am also currently studying computer science and applied mathematics at the university of technology in Austria and I'm a reserve military paramedic. 
 
-- 🔭 I'm mostly working on fun projects. Currently: <a name="projects"></a>
+- 🔭 I'm mostly working on fun projects. Some of them are: <a name="projects"></a>
    - [Shiro - An Operating System from Scratch](https://github.com/shiro-os) 
    - [A wrapper for the QWANT API](https://github.com/NullDev/qwant-api)
    - [Ex-Programming Team-Lead of SaveTheInternet](https://github.com/savetheinternetinfo)
