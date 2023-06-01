@@ -6,6 +6,8 @@ Hey! I'm Chris aka NullDev. I'm a 24 year old fullstack developer with focus on 
 - 🔭 I'm mostly working on fun projects. Some of them are: <a name="projects"></a>
    - [Shiro - An Operating System from Scratch](https://github.com/shiro-os) 
    - [A wrapper for the QWANT API](https://github.com/NullDev/qwant-api)
+   - [DiscordJS Template with i18n, sharding, slash commands and auto deploy](https://github.com/NullDev/DiscordJS-Template)
+   - [A counting bot for Discord that supports arithmetic expressions](https://github.com/NullDev/Arithmetica-Bot)
    - [Ex-Programming Team-Lead of SaveTheInternet](https://github.com/savetheinternetinfo)
    - [Developer and Moderator for the german Imageboard "pr0gramm"](https://github.com/pr0-dev)
    - [A StyleGuide for NodeJS and JavaScript](https://github.com/NullDevCo/JavaScript-Styleguide)
