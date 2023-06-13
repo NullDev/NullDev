@@ -16,7 +16,7 @@ Hey! I'm Chris aka NullDev. I'm a 24 year old fullstack developer with focus on 
    - [A client for the browser-game krunker.io](https://github.com/idkr-client)
    - [The official client for the browser-game senpa.io](https://github.com/NullDev/senpa-io-client)
    - [A deterministic emotion-detection AI](https://github.com/EMMA-Emotion-AI)
-   - [AI to classify donation organisations & donation value from pictures](https://github.com/pr0-dev/Spendenr-AI-d)
+   - [AI to classify donation organisations & donation value from pictures](https://github.com/NullDev/Spendenr-AI-d)
    - [Maintaining the Debian-Package for `sp`](https://github.com/NullDev/sp)
    - [Participation in various events such as "Advent of Code"](https://github.com/NullDev/Advent-of-Code)
 
