@@ -10,7 +10,7 @@ Hey! I'm Chris aka NullDev. I'm a 24 year old fullstack developer with focus on 
    - [A counting bot for Discord that supports arithmetic expressions](https://github.com/NullDev/Arithmetica-Bot)
    - [Ex-Programming Team-Lead of SaveTheInternet](https://github.com/savetheinternetinfo)
    - [Developer and Moderator for the german Imageboard "pr0gramm"](https://github.com/pr0-dev)
-   - [A StyleGuide for NodeJS and JavaScript](https://github.com/NullDevCo/JavaScript-Styleguide)
+   - [A StyleGuide for NodeJS and JavaScript](https://github.com/NullDev/JavaScript-Styleguide)
    - [A LOLCODE parser written in JavaScript](https://github.com/NullDev/I-HAS-JS)
    - [Some older Minecraft related projects](https://github.com/EpticMC)
    - [A client for the browser-game krunker.io](https://github.com/idkr-client)
