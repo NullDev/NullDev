@@ -23,6 +23,7 @@ Hey! I'm Chris aka NullDev. I'm a 24 year old fullstack developer with focus on 
    - [A StyleGuide for NodeJS and JavaScript](https://github.com/NullDev/JavaScript-Styleguide)
    - [A LOLCODE parser written in JavaScript](https://github.com/NullDev/I-HAS-JS)
    - [Some older Minecraft related projects](https://github.com/EpticMC)
+   - [Improving FxSound a bit](https://github.com/fxsound2/fxsound-app)
    - [A client for the browser-game krunker.io](https://github.com/idkr-client)
    - [The official client for the browser-game senpa.io](https://github.com/NullDev/senpa-io-client)
    - [A deterministic emotion-detection AI](https://github.com/EMMA-Emotion-AI)
