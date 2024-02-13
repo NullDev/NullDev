@@ -31,7 +31,7 @@ Hey! I'm Chris aka NullDev. I'm a 24 year old fullstack developer with focus on 
    - [Maintaining the Debian-Package for `sp`](https://github.com/NullDev/sp)
    - [Participation in various events such as "Advent of Code"](https://github.com/NullDev/Advent-of-Code)
 
-- ✨ Main/Strong languages: **JavaScript, NodeJS, C#, PHP, HTML5, CSS3 & SCSS** <a name="strong-languages"></a>
+- ✨ Main/Strong languages: **JavaScript, NodeJS, Python, C#, PHP, HTML5, CSS3 & SCSS** <a name="strong-languages"></a>
 
 - 📜 Other languages I'm familiar with: **C, Java, Bash, GBZ80 Assembly** <a name="other-languages"></a>
 
