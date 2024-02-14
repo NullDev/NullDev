@@ -35,7 +35,7 @@ Hey! I'm Chris aka NullDev. I'm a 24 year old fullstack developer with focus on 
 
 - 📜 Other languages I'm familiar with: **C, Java, Bash, GBZ80 Assembly** <a name="other-languages"></a>
 
-- 🌱 I’m currently learning **C++, ~~APL~~** (_gave up on that one_ :trollface: but might try [uiua](https://www.uiua.org/))**, a bit of Rust and Japanese** <a name="learning"></a>
+- 🌱 I’m currently learning **C++, ~~APL~~** (_gave up on that one_ :trollface: but might try [uiua](https://www.uiua.org/))**, a bit of Zig and Japanese as well as a bit of Latin** <a name="learning"></a>
 
 - ⭐ My Star-Lists: <a name="stars"></a>
   - [AI & ML](https://github.com/stars/NullDev/lists/ai-ml) - Tools, Projects, Frameworks and Libraries for/about Artificial Intelligence and Machine Learning
