@@ -69,4 +69,4 @@ Hey! I'm Chris aka NullDev. I'm a 25 year old fullstack developer with focus on 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nldev&label=Profile%20views&color=0e75b6&style=flat" alt="nldev" /> </p>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/NullDev/NullDev/assets/22935000/bbaee963-9c34-4d05-b23a-26d267c63050');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/NullDev/NullDev/assets/22935000/4eafe1ad-5136-44c1-9e0e-98dc3029d485');]{x0000}$}
