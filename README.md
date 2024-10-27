@@ -23,13 +23,18 @@ Hey! I'm Chris aka NullDev. I'm a 25 year old fullstack developer with focus on 
    - [A StyleGuide for NodeJS and JavaScript](https://github.com/NullDev/JavaScript-Styleguide)
    - [A LOLCODE parser written in JavaScript](https://github.com/NullDev/I-HAS-JS)
    - [Some older Minecraft related projects](https://github.com/EpticMC)
-   - [Improving FxSound a bit](https://github.com/fxsound2/fxsound-app)
    - [A client for the browser-game krunker.io](https://github.com/idkr-client)
    - [The official client for the browser-game senpa.io](https://github.com/NullDev/senpa-io-client)
    - [A deterministic emotion-detection AI](https://github.com/EMMA-Emotion-AI)
    - [AI to classify donation organisations & donation value from pictures](https://github.com/NullDev/Spendenr-AI-d)
    - [Maintaining the Debian-Package for `sp`](https://github.com/NullDev/sp)
    - [Participation in various events such as "Advent of Code"](https://github.com/NullDev/Advent-of-Code)
+   - Occasional contributions in other Open Source projects such as:
+     - [FxSound](https://github.com/fxsound2/fxsound-app)
+     - [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix)
+     - [Discord datamining-hub](https://github.com/FoUnDeRR/datamining-hub)
+     - [panon](https://github.com/rbn42/panon)
+     - [idownvotedbecause](https://github.com/WillSullivan/idownvotedbecause)
 
 - ✨ Main/Strong languages: **JavaScript, NodeJS, Python, C#, PHP, HTML5, CSS3 & SCSS** <a name="strong-languages"></a>
 
