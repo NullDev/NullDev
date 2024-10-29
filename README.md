@@ -62,9 +62,8 @@ Hey! I'm Chris aka NullDev. I'm a 25 year old fullstack developer with focus on 
 
 <hr>
 
-If you like what I'm doing or if I helped you with any open source project or answer, please consider to <br><br>
-<a href='https://ko-fi.com/C0C815DBED' target='_blank'><img height='36' style="vertical-align:middle" src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a><br>
-:3 
+If you want to thank me for help, a project, a contribution or anything else :3 <br><br>
+[<img src="https://storage.ko-fi.com/cdn/kofi3.png?v=6" width="300" />](https://ko-fi.com/C0C815DBED)
 
 <hr>
 
