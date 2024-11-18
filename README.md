@@ -13,7 +13,6 @@ Hey! I'm Chris aka NullDev. I'm a 25 year old fullstack developer with focus on 
       - You can find my playlists [here](https://open.spotify.com/user/2yam2vmpjlbi9d5kqisppgqg8/playlists) if you're interested :)
 
 - 🔭 I'm mostly working on fun projects. Some of them are: <a name="projects"></a>
-   - [Shiro - An Operating System from Scratch](https://github.com/shiro-os) 
    - [A wrapper for the QWANT API](https://github.com/NullDev/qwant-api)
    - [DiscordJS Template with i18n, sharding, slash commands and auto deploy](https://github.com/NullDev/DiscordJS-Template)
    - [A counting bot for Discord that supports arithmetic expressions](https://github.com/NullDev/Arithmetica-Bot)
@@ -29,6 +28,7 @@ Hey! I'm Chris aka NullDev. I'm a 25 year old fullstack developer with focus on 
    - [AI to classify donation organisations & donation value from pictures](https://github.com/NullDev/Spendenr-AI-d)
    - [Maintaining the Debian-Package for `sp`](https://github.com/NullDev/sp)
    - [Participation in various events such as "Advent of Code"](https://github.com/NullDev/Advent-of-Code)
+   - [Shiro - An Operating System from Scratch](https://github.com/shiro-os) 
    - Occasional contributions in other Open Source projects such as:
      - [FxSound](https://github.com/fxsound2/fxsound-app)
      - [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix)
