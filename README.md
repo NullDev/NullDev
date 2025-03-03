@@ -74,6 +74,8 @@ If you want to thank me for help, a project, a contribution or anything else :3<
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=NullDev&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&bg_color=00000000&custom_title=NullDev%27s%20Stats%20%E2%97%95%E2%80%BF%E2%97%95"></img>
+<br>
+<a href="https://www.codewars.com/users/NLDev" target="_blank"><img alt="codewars" src="https://www.codewars.com/users/NLDev/badges/large"></img></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nldev&label=Profile%20views&color=0e75b6&style=flat" alt="nldev" /> </p>
