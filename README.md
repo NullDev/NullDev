@@ -27,8 +27,9 @@ Hey! I'm Chris aka NullDev. I'm a 25 year old fullstack developer with focus on 
    - [A deterministic emotion-detection AI](https://github.com/EMMA-Emotion-AI)
    - [AI to classify donation organisations & donation value from pictures](https://github.com/NullDev/Spendenr-AI-d)
    - [Maintaining the Debian-Package for `sp`](https://github.com/NullDev/sp)
+   - [Shiro - An Operating System from Scratch](https://github.com/shiro-os)
    - [Participation in various events such as "Advent of Code"](https://github.com/NullDev/Advent-of-Code)
-   - [Shiro - An Operating System from Scratch](https://github.com/shiro-os) 
+     - [Or taking a stab at Google's hiring challange - the google foobar](https://github.com/NullDev/google-foobar)
    - Occasional contributions in other Open Source projects such as:
      - [FxSound](https://github.com/fxsound2/fxsound-app)
      - [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix)
