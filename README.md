@@ -30,6 +30,9 @@ Hey! I'm Chris aka NullDev. I'm a 25 year old fullstack developer with focus on 
    - [Shiro - An Operating System from Scratch](https://github.com/shiro-os)
    - [Participation in various events such as "Advent of Code"](https://github.com/NullDev/Advent-of-Code)
      - [Or taking a stab at Google's hiring challange - the google foobar](https://github.com/NullDev/google-foobar)
+   - Some mods for Games:
+     - [Welcome To The Game II Website unblocker](https://github.com/NullDev/wttg2-website-unblocker)
+     - [Oblivion Remaster Achievements Re-Enabler](https://github.com/NullDev/Oblivion-Remaster-ReEnable-Achievements)
    - Occasional contributions in other Open Source projects such as:
      - [FxSound](https://github.com/fxsound2/fxsound-app)
      - [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix)
