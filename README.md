@@ -31,8 +31,9 @@ Hey! I'm Chris aka NullDev. I'm a 25 year old fullstack developer with focus on 
    - [Participation in various events such as "Advent of Code"](https://github.com/NullDev/Advent-of-Code)
      - [Or taking a stab at Google's hiring challange - the google foobar](https://github.com/NullDev/google-foobar)
    - Some mods for Games ([Verified Mod Dev @ Nexus](https://next.nexusmods.com/profile/NullPing)):
-     - [Welcome To The Game II Website unblocker](https://github.com/NullDev/wttg2-website-unblocker)
-     - [Oblivion Remaster Achievements Re-Enabler](https://github.com/NullDev/Oblivion-Remaster-ReEnable-Achievements)
+     - [Welcome To The Game II Website unblocker](https://github.com/NullDev/wttg2-website-unblocker) - [Nexus Link](https://www.nexusmods.com/welcometothegame2/mods/1)
+     - [Oblivion Remaster Achievements Re-Enabler](https://github.com/NullDev/Oblivion-Remaster-ReEnable-Achievements) - [Nexus Link](https://www.nexusmods.com/oblivionremastered/mods/112)
+     - [Oblivion Remaster Toggle Quest Items (Nexus Link)](https://www.nexusmods.com/oblivionremastered/mods/1329)
    - Occasional contributions in other Open Source projects such as:
      - [FxSound](https://github.com/fxsound2/fxsound-app)
      - [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix)
