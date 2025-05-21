@@ -30,6 +30,7 @@ Hey! I'm Chris aka NullDev. I'm a 25 year old fullstack developer with focus on 
    - [Shiro - An Operating System from Scratch](https://github.com/shiro-os)
    - [Participation in various events such as "Advent of Code"](https://github.com/NullDev/Advent-of-Code)
      - [Or taking a stab at Google's hiring challange - the google foobar](https://github.com/NullDev/google-foobar)
+     - [Or doing CodeWars](https://www.codewars.com/users/NLDev/completed_solutions)
    - Some mods for Games ([Verified Mod Dev @ Nexus](https://next.nexusmods.com/profile/NullPing)):
      - [Welcome To The Game II Website unblocker](https://github.com/NullDev/wttg2-website-unblocker) - [Nexus Link](https://www.nexusmods.com/welcometothegame2/mods/1)
      - [Oblivion Remaster Achievements Re-Enabler](https://github.com/NullDev/Oblivion-Remaster-ReEnable-Achievements) - [Nexus Link](https://www.nexusmods.com/oblivionremastered/mods/112)
