@@ -14,6 +14,7 @@ Hey! I'm Chris aka NullDev. I'm a 25 year old fullstack developer with focus on 
 
 - 🔭 I'm mostly working on fun projects. Some of them are: <a name="projects"></a>
    - [A wrapper for the QWANT API](https://github.com/NullDev/qwant-api)
+   - [My personal lil MathLib](https://github.com/NullDev/mathlib)
    - [DiscordJS Template with i18n, sharding, slash commands and auto deploy](https://github.com/NullDev/DiscordJS-Template)
    - [A counting bot for Discord that supports arithmetic expressions](https://github.com/NullDev/Arithmetica-Bot)
    - [A YouTube Userscript to bypass the Anti-AdBlock PopUps](https://github.com/NullDev/YT-Anti-Anti-Adblock)
