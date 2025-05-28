@@ -1,7 +1,7 @@
 <a name="profile"></a>
 <p align="center"><img src="https://i.imgur.com/MZ9L7Ne.png" width="100%" height="auto"></p>
 
-Hey! I'm Chris aka NullDev. I'm a 25 year old fullstack developer with focus on backend programming and artificial intelligence / machine learning who likes Math and Functional Programming a bit too much. I am also currently studying computer science and mathematics.
+Hey! I'm Chris aka NullDev. I'm a 26 year old fullstack developer with focus on backend programming and artificial intelligence / machine learning who likes Math and Functional Programming a bit too much. I am also currently studying computer science and mathematics.
 
 - ❄ Personal stuff: <a name="personal"></a>
    - I like Cats 😸
