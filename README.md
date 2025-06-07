@@ -30,7 +30,7 @@ Hey! I'm Chris aka NullDev. I'm a 26 year old fullstack developer with focus on 
    - [Maintaining the Debian-Package for `sp`](https://github.com/NullDev/sp)
    - [Shiro - An Operating System from Scratch](https://github.com/shiro-os)
    - Participation in various events and code challenges such as:
-     - ["Advent of Code"](https://github.com/NullDev/Advent-of-Code)
+     - [The annual Advent of Code](https://github.com/NullDev/Advent-of-Code)
      - [Or taking a stab at Google's hiring challenge - the google foobar](https://github.com/NullDev/google-foobar)
      - [Or doing CodeWars](https://www.codewars.com/users/NLDev/completed_solutions) & [Creating CodeWars Kata](https://www.codewars.com/users/NLDev/authored)
      - [Or, more recently, StackOverflow Code challenges](https://stackoverflow.com/users/7575111/nulldev?tab=activity&sort=discussions)
