@@ -33,7 +33,6 @@ Hey! I'm Chris aka NullDev. I'm a 26 year old fullstack developer with focus on 
      - [The annual Advent of Code](https://github.com/NullDev/Advent-of-Code)
      - [Or taking a stab at Google's hiring challenge - the google foobar](https://github.com/NullDev/google-foobar)
      - [Or doing CodeWars](https://www.codewars.com/users/NLDev/completed_solutions) & [Creating CodeWars Kata](https://www.codewars.com/users/NLDev/authored)
-     - [Or, more recently, StackOverflow Code challenges](https://stackoverflow.com/users/7575111/nulldev?tab=activity&sort=discussions)
    - Some random stuff like:
      - [My CodePens](https://codepen.io/nldev/pens/public)
      - [My Gist](https://gist.github.com/NullDev) & [JS Snippets](https://gist.github.com/NullDev/1071817d426371f441dd9f28ef3d7fba)
