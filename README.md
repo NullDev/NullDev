@@ -29,6 +29,7 @@ Hey! I'm Chris aka NullDev. I'm a 26 year old fullstack developer with focus on 
    - [AI to classify donation organisations & donation value from pictures](https://github.com/NullDev/Spendenr-AI-d)
    - [Maintaining the Debian-Package for `sp`](https://github.com/NullDev/sp)
    - [Shiro - An Operating System from Scratch](https://github.com/shiro-os)
+   - [SimSymSrv - Simple MS Debugging Symbol Downloader CLI](https://github.com/NullDev/SimSymSrv)
    - Participation in various events and code challenges such as:
      - [The annual Advent of Code](https://github.com/NullDev/Advent-of-Code)
      - [Or taking a stab at Google's hiring challenge - the google foobar](https://github.com/NullDev/google-foobar)
