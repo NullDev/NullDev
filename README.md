@@ -48,6 +48,7 @@ Hey! I'm Chris aka NullDev. I'm a 26 year old fullstack developer with focus on 
      - [Discord datamining-hub](https://github.com/FoUnDeRR/datamining-hub)
      - [panon](https://github.com/rbn42/panon)
      - [idownvotedbecause](https://github.com/WillSullivan/idownvotedbecause)
+     - [MDN](https://github.com/mdn/content) ([developer.mozilla.org](https://developer.mozilla.org/en-US/)) & [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/NullDev) ([profile](https://en.wikipedia.org/wiki/User:NullDev))
 
 - ✨ Main/Strong languages: **JavaScript, NodeJS, Python, C#, PHP, HTML5, CSS3 & SCSS** <a name="strong-languages"></a>
 
