@@ -5,7 +5,7 @@ Hey! I'm Chris aka NullDev. I'm a 26 year old fullstack developer with focus on 
 
 - ❄ Personal stuff: <a name="personal"></a>
    - I like Cats 😸
-   - I like Anime 🗾
+   - I like Anime ([MAL](https://myanimelist.net/animelist/nullping)) 🗾
    - I love Souls Games (Demon Souls, Dark Souls I / II / III, Elden Ring, Lies of P, Lords of the Fallen), Skyrim, Horror Games (Indie stuff, Outlast, Resident Evil, etc), Random stuff like Undertale or Celeste and some shooters 🎮
       - Feel free to [add me on Steam](https://steamcommunity.com/id/null_ping/) ➕
    - I use Linux btw ([KDE Neon](https://neon.kde.org/)) 🐧 
