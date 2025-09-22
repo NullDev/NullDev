@@ -71,6 +71,8 @@ Hey! I'm Chris aka NullDev. I'm a 26 year old fullstack developer with focus on 
    - Website: [**https://nulldev.org**](https://nulldev.org)
      - Blog: [**https://nulldev.org/blog/**](https://nulldev.org/blog/)
    - YouTube [**@null_ping**](https://www.youtube.com/@null_ping)
+   - Launchpad: [**~nullping**](https://launchpad.net/~nullping)
+   - KeyBase: [**nulldev**](https://keybase.io/nulldev)
    - StackOverflow: [**NullDev**](https://stackoverflow.com/users/7575111/nulldev?tab=topactivity) <br><a href="https://stackoverflow.com/users/7575111/nulldev?tab=topactivity"><img src="https://stackoverflow.com/users/flair/7575111.png?theme=dark" width="208" height="58" alt="profile for NullDev at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for NullDev at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <sub>You can contact me in German (native language) or English ([C2-Level](https://www.cambridgeenglish.org/exams-and-tests/proficiency/))</sub>
