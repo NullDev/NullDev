@@ -45,6 +45,7 @@ Hey! I'm Chris aka NullDev. I'm a 26 year old fullstack developer with focus on 
    - Occasional contributions in other Open Source projects such as:
      - [FxSound](https://github.com/fxsound2/fxsound-app)
      - [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix)
+     - [Electrobun](https://github.com/blackboardsh/electrobun)
      - [Discord datamining-hub](https://github.com/FoUnDeRR/datamining-hub)
      - [panon](https://github.com/rbn42/panon)
      - [idownvotedbecause](https://github.com/WillSullivan/idownvotedbecause)
