@@ -79,9 +79,10 @@ Hey! I'm Chris aka NullDev. I'm a 26 year old fullstack developer with focus on 
 <sub>You can contact me in German (native language) or English ([C2-Level](https://www.cambridgeenglish.org/exams-and-tests/proficiency/))</sub>
 
 <hr>
-
+<p align="center">
 If you want to thank me for help, a project, a contribution or anything else :3<br> <br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/null_dev)
+<a href="https://ko-fi.com/null_dev"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
+</p>
 
 <hr>
 
